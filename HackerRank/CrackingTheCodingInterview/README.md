@@ -4,6 +4,8 @@ Coding problems from Cracking the Coding Interview
 
 ## Queues: A Tale of Two Stacks
 
+**file**: queues_using_two_stacks.cpp
+
 A queue is an abstract data type that maintains the order in which elements were added to it, allowing the oldest elements to be removed from the front and new elements to be added to the rear. This is called a First-In-First-Out (FIFO) data structure because the first element added to the queue (i.e., the one that has been waiting the longest) is always the first one to be removed.
 
 A basic queue has the following operations:
